@@ -4,7 +4,6 @@ import javax.swing.border.*;
 import java.awt.*;
 
 public class NewspaperCoverPage extends JFrame {
-
     public NewspaperCoverPage() {
         setTitle("Daily Times - Newspaper Cover Page");
         setSize(900, 700);
